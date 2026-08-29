@@ -1,0 +1,30 @@
+{
+  "name": "mcp-server-pack-builder",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Model Context Protocol (MCP) TypeScript server scaffolding, tool schema generator, and Claude Desktop configurator.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "mcp-scaffold": "dist/cli.js"
+  },
+  "scripts": {
+    "test": "node --test tests/generator.test.ts"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "anthropic",
+    "claude-desktop",
+    "agent-tools",
+    "typescript",
+    "ai-agents"
+  ],
+  "author": "Gordon Geraghty",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gordongeraghty/mcp-server-pack-builder"
+  },
+  "homepage": "https://gordongeraghty.com/resources/ai-engineering/mcp-server-pack-builder"
+}

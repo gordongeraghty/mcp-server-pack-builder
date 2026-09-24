@@ -114,8 +114,8 @@ const claudeConfig = generateClaudeDesktopConfig(config)
 
 ## Related Tools
 
-- [Hosted MCP Server Pack Builder](https://gordongeraghty.com/resources/ai-engineering/mcp-server-pack-builder) — Interactive web tool builder with tabbed schema preview.
-- [RAG Chunking Simulator](https://gordongeraghty.com/resources/ai-engineering/rag-chunking-simulator) — Token boundary and vector DB capacity planner.
+- [Hosted MCP Server Pack Builder](https://gordongeraghty.com/resources/ai-engineering/mcp-server-template-pack) — Interactive web tool builder with tabbed schema preview.
+- [RAG Chunking Simulator](https://gordongeraghty.com/resources/ai-engineering/rag-chunking-embedding-benchmark) — Token boundary and vector DB capacity planner.
 
 ---
 
